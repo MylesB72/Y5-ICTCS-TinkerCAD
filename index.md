@@ -6,4 +6,4 @@ You will save and submit these files on your TinkerCAD account. You need to comp
 ## Mayan Temple
 <img src="./img/Mayan Temple 1.jpg">
 
-![Picture of mayan temple end product](./img/Mayan Temple 1.jpg)
+![Picture of mayan temple end product]("./img/Mayan Temple 1.jpg")
