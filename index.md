@@ -14,6 +14,7 @@ Click the **sign in** button and **select student**.
 Enter the **class code** that your teacher gives you.
 You will see this menu.
 ![Welcome to your class, type your nickname](./img/login1.png)
+
 Type in the nickname that your teacher has assigned you.
 
 In this first lesson, you will work through the self guided tutorials on TinkerCAD that will show you how to use it's functions.
